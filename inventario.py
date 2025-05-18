@@ -1,6 +1,6 @@
 ecplipse = str
 
-meu_dicionario = {
+meu_inventario = {
     "orb comun": "uso 1",
     "orb imcomun": "uso 2",
     "orb raro": "uso 2",
@@ -17,7 +17,7 @@ meu_dicionario = {
     "orb nuclear mega concentrado aprisionativo": "uso 1",
     "orb da froça !!!": "uso 1",
     "orb da força@": "uso 1",
-    "orb do eclipse": "Só pode ser usado duranto o {eclipse}",
+    "orb do eclipse": "Só pode ser usado durante o {eclipse}",
     "orb da divisão": "uso 1",
     "orb do amor": "uso 2",
     "orb requien": "uso 1",
@@ -30,4 +30,24 @@ meu_dicionario = {
     "orb do LULA": "uso 1",
     "barras de ferro": "por quantdade",
     "baterias": "quantidade e porcentagen",
+    "Lança da magia": "dano 30, torna o uso de magias sem gasto",
+    "capacete da percepção": " inteligencia magia e sorte x3 e sanidade sempra acima de 3",
+    "Canhão de matera escura": "dano 600 Precisão 70" "sem limties de uso",
+    "gerador de mini bots 0": "sem taxa de uso",
+    "armadura DC4": "Duração 100, é capaz de viajar entre dimençoes",
+    "armadura da rotação": "Duração 200 ao ser atingida trancende ao poder ou o golpe por um turno",
+    "armadura da navegação a distancia": "Duração 300, se quem estiver usando a armadura atirar um projeto energetico a armadura possibiliatra alcançar o alvo ou criar uma passagen dimensional a ele",
+    "armadura comun": "Duração 300",
+    "armadura climatica": "Duração 400",
+    "armadura de combate 1": "Duração 500",
+    "armadura voadora": "Duração 600, é capaz de voar",
+    "Nulceo nivel 1": "Fonte de energia para construçoes",
+    "Nucleo nivel 2": "Fonte de energia para cidades",
+    "Vibranio": "minerio",
+    "arma laizer tec": "Dano 200 preicisão 200",
+    "arma laizer tec1": "Dano 300 preicisão 300",
+    "Bateria de cardiohumana": "usada apenas em seres vivos",
+    "Bateria espiritual das trevas ": "usada para entidades e espiritos das trevas",
+    "Bateria liquida50": "Uso multfuncional",
+
 }
